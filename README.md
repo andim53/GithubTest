@@ -1,2 +1,2 @@
-# GithubTest
-The purpose of this github repository is for studying and mastering how to use github. 
+# New branch
+This is a new branch in github. 
